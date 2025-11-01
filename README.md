@@ -6,6 +6,10 @@
 
 3.进入网站添加变量TUNNEL_PROXY=1，Joye里面打开Any权限，设置定时任务，过期时间调到最大
 
+可指定socks5
+
+TUNNEL_PROXY=socks5://用户名:密码@ip:端口
+
 4.redeploy,然后点excute
 
 5.打开网址查看是否出现网页，出现则部署正常

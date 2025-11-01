@@ -4,7 +4,7 @@
 
 2.部署命令改成npm install
 
-3.进入网站添加变量TUNNEL_PROXY=1，Joye里面打开Any权限
+3.进入网站添加变量TUNNEL_PROXY=1，Joye里面打开Any权限，设置定时任务，过期时间调到最大
 
 4.redeploy,然后点excute
 

@@ -13,7 +13,9 @@
 
 6.把网页定时访问保活，推荐利用下面项目部署保活，也可以利用哪吒监控保活
 
-#### 进阶玩法：可以部署自己的socks5节点，使用脚本 https://github.com/dsadsadsss/java-wanju.git
+#### 进阶玩法：默认是使用免费socks5，你可以部署自己的
+
+使用脚本 https://github.com/dsadsadsss/java-wanju.git
 
 然后复制节点到v2rayn中，把用户名，密码找到
 

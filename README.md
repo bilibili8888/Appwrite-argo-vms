@@ -4,14 +4,14 @@
 
 2.部署命令改成npm install
 
-3.进入appwrite网站添加变量TUNNEL_PROXY=1
-
-Joye里面打开Any权限，设置定时任务，过期时间调到最大
+3.进入appwrite网站设置里面，找到Joye打开Any权限，设置时间最大900
 
 
 4.redeploy,然后点excute
 
 5.打开网址查看是否出现网页，出现则部署正常
+
+6.把网页定时访问保活，推荐利用
 
 
 
